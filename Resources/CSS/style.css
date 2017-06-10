@@ -112,6 +112,8 @@ nav {
     font-weight: 400;
     color: #000;
     text-align: center;
+    width: 70%;
+    padding-right: 50px;
 }
 
 .george {
@@ -123,5 +125,7 @@ nav {
 }
 
 .george img {
-    padding-top: 100px;
+    vertical-align: middle;
+    margin-top: 150px;
+    
 }
